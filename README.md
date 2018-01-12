@@ -1,0 +1,2 @@
+# KotlinLoopScrollBanner
+Kotlin版LoopScrollBanner
